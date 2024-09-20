@@ -20,6 +20,7 @@ public class CsvReader {
         BufferedReader reader = new BufferedReader(new FileReader(POST_PATH, StandardCharsets.UTF_8));
         List<PostEntity> list = new ArrayList<PostEntity>();
         reader.readLine();
+        //adf
 //
         String line ="";
 
