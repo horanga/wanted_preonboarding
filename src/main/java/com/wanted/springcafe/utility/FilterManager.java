@@ -10,6 +10,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class FilterManager {
 
+    //tlfda
+
     private final EntityManager entityManager;
 
     public void enableFilter(String filterName, String paramName, Object paramValue){
