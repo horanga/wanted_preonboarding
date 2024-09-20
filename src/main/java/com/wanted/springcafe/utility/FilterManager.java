@@ -12,6 +12,7 @@ public class FilterManager {
 
     //tlfda
 
+    //dd
     private final EntityManager entityManager;
 
     public void enableFilter(String filterName, String paramName, Object paramValue){
