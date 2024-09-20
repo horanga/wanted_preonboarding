@@ -22,11 +22,11 @@ public class CsvReader {
         reader.readLine();
         //ddd
         //dad
-//
         String line ="";
-
-        //dasdfadf
+        //dd
+        //ddd
         //dddd
+
 //
 //        while((line=reader.readLine())!=null) {
 //            String[] split = line.split(COMMAN);
