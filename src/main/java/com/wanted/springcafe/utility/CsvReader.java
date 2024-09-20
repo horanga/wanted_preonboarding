@@ -20,10 +20,13 @@ public class CsvReader {
         BufferedReader reader = new BufferedReader(new FileReader(POST_PATH, StandardCharsets.UTF_8));
         List<PostEntity> list = new ArrayList<PostEntity>();
         reader.readLine();
+        //ddd
+        //dad
 //
         String line ="";
 
         //dasdfadf
+        //dddd
 //
 //        while((line=reader.readLine())!=null) {
 //            String[] split = line.split(COMMAN);
