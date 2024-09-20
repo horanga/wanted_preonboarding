@@ -22,6 +22,8 @@ public class CsvReader {
         reader.readLine();
 //
         String line ="";
+
+        //dasdfadf
 //
 //        while((line=reader.readLine())!=null) {
 //            String[] split = line.split(COMMAN);
