@@ -21,13 +21,12 @@ public class CsvReader {
         List<PostEntity> list = new ArrayList<PostEntity>();
         reader.readLine();
         //ddd
-        //dadgg
-//
+        //dad
         String line ="";
-
-        //dasdfadf
         //dd
         //ddd
+        //dddd
+
 //
 //        while((line=reader.readLine())!=null) {
 //            String[] split = line.split(COMMAN);
