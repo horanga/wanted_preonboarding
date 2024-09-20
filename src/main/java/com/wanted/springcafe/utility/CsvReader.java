@@ -38,8 +38,6 @@ public class CsvReader {
 //            list.add(post);
 //        }
         //dd
-        //dd
-
 
         //dd
         reader.close();
